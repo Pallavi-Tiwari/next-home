@@ -1,7 +1,5 @@
-# next-home
-Starter code for experimenting with Next.js
+## Next.js App Router Course - Starter
 
-# to run code
-npm run dev
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
-#let's learn Next.js
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
